@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
     DcSlight
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
   </h1>
 </div>
 <div align="center">
@@ -44,5 +44,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Projects :
 <!-- BLOG-POST-LIST:START -->
 [![WallGlob](https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg)](https://www.youtube.com/watch?v=3CqfRD3DkAs)
+</br>
+Full PHP Project, Web Social Media that let users all around the globe post trips, search for the best trip using geolocation, and follow other users.
+- Project Link:[WallGlob](https://wallglob.com/)
+
+- Technologies:PHP & PDO,JavaScript,SQL,Bootsrap.
+
 
 <!-- BLOG-POST-LIST:END -->
