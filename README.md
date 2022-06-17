@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Full PHP Project, Web Social Media that let users all around the globe post trips, search for the best trip using geolocation, and follow other users.
 - Project Link:[WallGlob](https://wallglob.com/)
 
-- Technologies:PHP & PDO,JavaScript,SQL,Bootsrap.
+- Technologies:PHP & PDO,JavaScript,MySQL,Bootsrap.
 
 
 <!-- BLOG-POST-LIST:END -->
