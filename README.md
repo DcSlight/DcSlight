@@ -43,14 +43,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Projects :
 <!-- BLOG-POST-LIST:START -->
-
 <img src="http://www.uploads.co.il/uploads/images/874975509.jpg" width="480" height="324">
 </br>
 This System will present how you can manage participants' status for meetings, events, and courses.
 Technologies: PHP & JavaScript & MySQL
-- Project Link:[SMCOURSE](https://www.youtube.com/watch?v=giPJy27Fb8cs)
 
-- Technologies:PHP & PDO,JavaScript,MySQL,Bootsrap.
+1) Project Link: <a href="https://www.youtube.com/watch?v=giPJy27Fb8cs">SMCOURSE</a>
+
+2) Technologies:PHP & PDO,JavaScript,MySQL,Bootsrap.
 
 
 <!-- BLOG-POST-LIST:END -->
@@ -60,9 +60,9 @@ Technologies: PHP & JavaScript & MySQL
 [![WallGlob](https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg)](https://www.youtube.com/watch?v=3CqfRD3DkAs)
 </br>
 Full PHP Project, Web Social Media that let users all around the globe post trips, search for the best trip using geolocation, and follow other users.
-- Project Link:[WallGlob](https://www.youtube.com/watch?v=3CqfRD3DkAs)
+1) Project Link:[WallGlob](https://www.youtube.com/watch?v=3CqfRD3DkAs)
 
-- Technologies:PHP & PDO,JavaScript,MySQL,Bootsrap.
+2) Technologies:PHP & PDO,JavaScript,MySQL,Bootsrap.
 
 
 
