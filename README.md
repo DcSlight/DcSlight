@@ -43,7 +43,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Projects :
 <!-- BLOG-POST-LIST:START -->
-[![SMCOURSE](https://img.youtube.com/vi/giPJy27Fb8c/0.jpg)](https://www.youtube.com/watch?v=giPJy27Fb8c)
+
+<img src="http://www.uploads.co.il/uploads/images/874975509.jpg" width="480" height="324">
 </br>
 This System will present how you can manage participants' status for meetings, events, and courses.
 Technologies: PHP & JavaScript & MySQL
