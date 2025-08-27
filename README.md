@@ -22,6 +22,59 @@ I’m a Full Stack Developer with **over 2 years of hands-on experience** and a 
 - ⚙️ Also skilled in **C, MPI, CUDA** for systems-level and parallel computing
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DcSlight/Soldicare">
+        <img src="https://img.youtube.com/vi/EvG0k-AL1xk/0.jpg" alt="SoldiCare" height="250">
+      </a>
+      <h3>SoldiCare – Real-Time Soldier Health Monitoring</h3>
+      <p>Modular system for monitoring soldiers' health in real time; dashboards & mobile with critical alerts.</p>
+      <a href="https://github.com/DcSlight/Soldicare"><b>🔗 View Repo</b></a> •
+      <a href="https://www.youtube.com/watch?v=EvG0k-AL1xk"><b>▶ Demo</b></a>
+      <br><br>
+      <b>Tech:</b> React · TypeScript · Spring Boot · Java · Kotlin · Python · Firebase · Docker · JUnit
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DcSlight/Interpreter">
+        <img src="https://raw.githubusercontent.com/DcSlight/Interpreter/prod/assets/cheatsheet.png" alt="Interpreter" height="250">
+      </a>
+      <h3>Interpreter – Custom Programming Language</h3>
+      <p>Custom language with lexer, parser, AST, and interpreter. Includes BNF grammar & tests.</p>
+      <a href="https://github.com/DcSlight/Interpreter"><b>🔗 View Repo</b></a>
+      <br><br>
+      <b>Tech:</b> Python · Lexical Analysis · Parsing · AST · Interpreter Design
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DcSlight/ml-dl-projects">
+        <img src="https://raw.githubusercontent.com/DcSlight/ml-dl-projects/main/Convolution/images/channel.png" alt="ML & DL" height="250">
+      </a>
+      <h3>Machine Learning & Neural Networks</h3>
+      <p>Portfolio of ML/DL projects: CNNs, LSTMs, Titanic survival, house prices regression, and more.</p>
+      <a href="https://github.com/DcSlight/ml-dl-projects"><b>🔗 View Repo</b></a>
+      <br><br>
+      <b>Tech:</b> Python · PyTorch · TensorFlow · scikit-learn · Pandas · Matplotlib · Seaborn
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DcSlight/WallGlob">
+        <img src="https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg" alt="WallGlob" height="250">
+      </a>
+      <h3>WallGlob – Social Travel Platform</h3>
+      <p>PHP-based social platform: share trips, search via geolocation, and follow travelers worldwide.</p>
+      <a href="https://github.com/DcSlight/WallGlob"><b>🔗 View Repo</b></a> •
+      <a href="https://www.youtube.com/watch?v=3CqfRD3DkAs"><b>▶ Demo</b></a>
+      <br><br>
+      <b>Tech:</b> PHP · MySQL · JavaScript · AJAX · Bootstrap
+    </td>
+  </tr>
+</table>
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 ## 🧰 Languages & Tools
 
