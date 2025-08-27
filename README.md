@@ -88,7 +88,7 @@ The **Interpreter** project is a custom-built programming language designed and 
 It includes a **lexer**, **parser**, **AST generator**, and an **interpreter** capable of handling function definitions, lambda expressions, logical operations, arithmetic expressions, and more.  
 The project demonstrates knowledge in compiler theory, parsing techniques, and interpreter design.
 
-- **Project Link:** [Interpreter Repository](https://github.com/idanNoyshul/Interpreter)
+- **Project Link:** [Interpreter Repository](https://github.com/DcSlight/Interpreter)
 - **Technologies:** Python · Lexical Analysis · Parsing · Abstract Syntax Trees · Interpreter Design
 - **Key Features:**
     - Custom-built programming language from scratch
@@ -100,7 +100,26 @@ The project demonstrates knowledge in compiler theory, parsing techniques, and i
   
 <!-- BLOG-POST-LIST:END -->
 
-### :writing_hand: Project 3 - WallGlob :
+### Project 3 - Machine Learning & Neural Networks – ML/DL Portfolio
+
+  <img src="https://raw.githubusercontent.com/DcSlight/ml-dl-projects/main/Convolution/images/channel.png" alt="ML & DL Projects" height="350">
+
+
+A collection of machine learning and deep learning projects implemented in Python, covering classification, sequence modeling, feature selection, and regression.  
+The repository includes hands-on experiments with CNNs, LSTMs, advanced models, and ensemble methods, achieving state-of-the-art results on multiple datasets.
+
+- **Project Link:** [ML & DL Projects Repository](https://github.com/DcSlight/ml-dl-projects)
+- **Technologies:** Python · NumPy · Pandas · scikit-learn · PyTorch · TensorFlow/Keras · Matplotlib · Seaborn
+- **Highlights:**
+    - Handwritten digit classification (CNN, ~99% accuracy)
+    - LSTM-based language modeling & next-word prediction
+    - Titanic survival prediction with feature selection
+    - House prices prediction with regression & ensemble models
+
+    - 
+<!-- BLOG-POST-LIST:END -->
+
+### Project 3 - WallGlob :
 <!-- BLOG-POST-LIST:START -->
 [![WallGlob](https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg)](https://www.youtube.com/watch?v=3CqfRD3DkAs)
 </br>
