@@ -119,7 +119,7 @@ The repository includes hands-on experiments with CNNs, LSTMs, advanced models, 
     - 
 <!-- BLOG-POST-LIST:END -->
 
-### Project 3 - WallGlob :
+### Project 4 - WallGlob :
 <!-- BLOG-POST-LIST:START -->
 [![WallGlob](https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg)](https://www.youtube.com/watch?v=3CqfRD3DkAs)
 </br>
