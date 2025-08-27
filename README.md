@@ -22,7 +22,7 @@ I’m a Full Stack Developer with **over 2 years of hands-on experience** and a 
 - ⚙️ Also skilled in **C, MPI, CUDA** for systems-level and parallel computing
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
   <tr>
