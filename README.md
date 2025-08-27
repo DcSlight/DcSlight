@@ -100,18 +100,6 @@ The project demonstrates knowledge in compiler theory, parsing techniques, and i
   
 <!-- BLOG-POST-LIST:END -->
 
-### :writing_hand: Project 2 - TestDrive :
-<!-- BLOG-POST-LIST:START -->
-[![WallGlob](https://img.youtube.com/vi/HtkSaNbQn1E/0.jpg)](https://www.youtube.com/watch?v=HtkSaNbQn1E)
-</br>
-Full PHP Project, Manage DMV certification and driving certification tests.
-1) Project Link:[TestDrive](https://www.youtube.com/watch?v=HtkSaNbQn1E)
-
-2) Technologies:PHP & PDO,JavaScript,Ajax,JQuery,MySQL,Bootsrap.
-
-
-<!-- BLOG-POST-LIST:END -->
-
 ### :writing_hand: Project 3 - WallGlob :
 <!-- BLOG-POST-LIST:START -->
 [![WallGlob](https://img.youtube.com/vi/3CqfRD3DkAs/0.jpg)](https://www.youtube.com/watch?v=3CqfRD3DkAs)
