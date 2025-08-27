@@ -80,6 +80,26 @@ SoldiCare is a modular system designed to monitor soldiers' health in real time,
 
 <!-- BLOG-POST-LIST:END -->
 
+### 📝 Project 2 - Interpreter – Custom Programming Language
+
+  <img src="https://raw.githubusercontent.com/DcSlight/Interpreter/prod/assets/cheatsheet.png" alt="Cheat Sheet" height="400">
+
+The **Interpreter** project is a custom-built programming language designed and implemented from scratch.  
+It includes a **lexer**, **parser**, **AST generator**, and an **interpreter** capable of handling function definitions, lambda expressions, logical operations, arithmetic expressions, and more.  
+The project demonstrates knowledge in compiler theory, parsing techniques, and interpreter design.
+
+- **Project Link:** [Interpreter Repository](https://github.com/idanNoyshul/Interpreter)
+- **Technologies:** Python · Lexical Analysis · Parsing · Abstract Syntax Trees · Interpreter Design
+- **Key Features:**
+    - Custom-built programming language from scratch
+    - Lexer for tokenizing input commands
+    - Parser that converts input into an **AST** and validates syntax
+    - Interpreter for executing parsed commands
+    - Lambda functions, conditionals, loops, and arithmetic operations supported
+    - Includes **BNF grammar** definition and full testing framework
+  
+<!-- BLOG-POST-LIST:END -->
+
 ### :writing_hand: Project 2 - TestDrive :
 <!-- BLOG-POST-LIST:START -->
 [![WallGlob](https://img.youtube.com/vi/HtkSaNbQn1E/0.jpg)](https://www.youtube.com/watch?v=HtkSaNbQn1E)
