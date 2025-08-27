@@ -67,15 +67,13 @@ I’m a Full Stack Developer with **over 2 years of hands-on experience** and a 
 ---
 <!-- BLOG-POST-LIST:END -->
 
-### :writing_hand: Project 1 - SMCourse :
+### :writing_hand: Project 1 - SoldiCare – Real-Time Soldier Health Monitoring :
 <!-- BLOG-POST-LIST:START -->
 <img src="http://www.uploads.co.il/uploads/images/874975509.jpg" width="480" height="324">
 </br>
-This System will present how you can manage participants' status for meetings, events, and courses.
-
-1) Project Link: <a href="https://www.youtube.com/watch?v=giPJy27Fb8cs">SMCOURSE</a>
-
-2) Technologies:PHP & PDO,JavaScript,Ajax,JQuery,MySQL,Bootsrap.
+SoldiCare is a modular system designed to monitor soldiers' health in real time, providing commanders with updated medical statuses and critical alerts through web and mobile interfaces. The system integrates sensors, server-side logic, and visual dashboards to enhance field awareness and decision-making.
+1) Project Link:[SoldiCare]([https://www.youtube.com/watch?v=HtkSaNbQn1E](https://github.com/DcSlight/Soldicare))
+2) Technologies:ReactJS - TypeScript & Spring Boot - Java & Android - Kotlin & Python & Firebase & Docker/YAML & Testing - JUnit.
 
 
 <!-- BLOG-POST-LIST:END -->
