@@ -80,7 +80,7 @@ SoldiCare is a modular system designed to monitor soldiers' health in real time,
 
 <!-- BLOG-POST-LIST:END -->
 
-### 📝 Project 2 - Interpreter – Custom Programming Language
+### Project 2 - Interpreter – Custom Programming Language
 
   <img src="https://raw.githubusercontent.com/DcSlight/Interpreter/prod/assets/cheatsheet.png" alt="Cheat Sheet" height="400">
 
